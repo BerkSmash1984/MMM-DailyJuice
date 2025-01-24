@@ -1,0 +1,35 @@
+/* MMM-DailyJuice.css */
+
+.juice-container {
+  text-align: center;
+  padding: 10px;
+}
+
+.juice-image {
+  max-width: 175px; /* Adjust the size of the image */
+  height: auto;
+  border-radius: 10px;
+  margin: 0 auto 10px; /* Center the image and add spacing below */
+  display: block;
+}
+
+.juice-title {
+  font-size: 16px;
+  font-weight: bold;
+  color: #007bff;
+  text-decoration: none;
+}
+
+.juice-title:hover {
+  text-decoration: underline;
+}
+
+.ingredients-list {
+  list-style-type: none;
+  padding: 0;
+  margin: 10px 0;
+}
+
+.ingredients-list li {
+  font-size: 14px;
+}

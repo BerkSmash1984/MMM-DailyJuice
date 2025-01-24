@@ -1,0 +1,15 @@
+{
+  "name": "MMM-DailyJuice",
+  "version": "1.0.0",
+  "description": "A MagicMirror module to display a daily juice recipe, including image, title, and ingredients.",
+  "main": "MMM-DailyJuice.js",
+  "scripts": {
+    "start": "node node_helper.js"
+  },
+  "author": "BerkSmash1984",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.4.0",
+    "jsdom": "^22.1.0"
+  }
+}
