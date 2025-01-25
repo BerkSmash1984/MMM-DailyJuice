@@ -6,6 +6,10 @@
   "scripts": {
     "start": "node node_helper.js"
   },
+  "keywords": [
+    "MagicMirror",
+    "health",
+    ],
   "author": "BerkSmash1984",
   "license": "MIT",
   "dependencies": {
